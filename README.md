@@ -1,1 +1,4 @@
 # DSA
+stacks
+queues
+trees
